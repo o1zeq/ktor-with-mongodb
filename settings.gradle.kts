@@ -1,4 +1,4 @@
-rootProject.name = "mongo"
+rootProject.name = "control"
 
 pluginManagement {
     repositories {
